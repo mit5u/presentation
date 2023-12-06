@@ -101,6 +101,7 @@ Montrer atamakin
 * [Accéder au site de la Fédération Française de Shôgi](https://shogi.fr/)
 * [Jouer en ligne](https://lishogi.org/)
 * [Analyser des parties officielles](https://shogidb2.com)
+* [Approfondir l'histoire et les règles du jeu](https://www.konjaku.fr/regles-du-shogi.html)
 
 <!-- pour moi :
 - https://github.com/rstudio/revealjs
