@@ -25,6 +25,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Les échecs japonais
 
+
+
 <aside class="notes" data-markdown>
 
 https://lishogi.org/editor
@@ -52,12 +54,17 @@ Déplacement du cavalier : comme aux échecs ("saute" en L), mais seulement vers
 </aside>
 
 
-## Promotion (1/2)
+## Promotion (1/3)
 
 ![](www/deplacements_promues_paysage.png){width=200%}
 
 
-## Promotion (2/2)
+## Promotion (2/3)
+
+![](www/zone_promotion.png){width=60%}
+
+
+## Promotion (3/3)
 
 ![](www/silver_promote.gif)
 
