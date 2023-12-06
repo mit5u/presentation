@@ -25,8 +25,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Les échecs japonais
 
-
-
 <aside class="notes" data-markdown>
 
 https://lishogi.org/editor
@@ -39,6 +37,11 @@ https://lishogi.org/editor
 - O pour le mode survol
 - ? pour les raccourcis clavier
 </aside>
+
+## Différences avec les échecs
+
+- Toutes les pièces peuvent se promouvoir !
+- Une pièce capturée peut être réutilisée
 
 
 ## Déplacements
@@ -69,6 +72,8 @@ Déplacement du cavalier : comme aux échecs ("saute" en L), mais seulement vers
 ![](www/silver_promote.gif)
 
 ## Parachutage
+
+![](www/drop.gif){width=160% heigth=160%}
 
 <aside class="notes" data-markdown>
 Montrer atamakin
